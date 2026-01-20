@@ -1,4 +1,7 @@
 # diabetes-risk-prediction-ml
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/kiran2154/diabetes-risk-prediction-ml/blob/main/Diabetes_Risk_Prediction.ipynb)
+
 # Diabetes Risk Prediction using Machine Learning
 
 **Author:** Kiran Aradya  
